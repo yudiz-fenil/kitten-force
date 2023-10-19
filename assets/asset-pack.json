@@ -1,0 +1,108 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/bg_buy.png",
+                "type": "image",
+                "key": "bg_buy"
+            },
+            {
+                "url": "assets/images/blocks/block_1.png",
+                "type": "image",
+                "key": "block_1"
+            },
+            {
+                "url": "assets/images/blocks/block_2.png",
+                "type": "image",
+                "key": "block_2"
+            },
+            {
+                "url": "assets/images/blocks/block_3.png",
+                "type": "image",
+                "key": "block_3"
+            },
+            {
+                "url": "assets/images/boss/boss_1.png",
+                "type": "image",
+                "key": "boss_1"
+            },
+            {
+                "url": "assets/images/buttons/btn_buy.png",
+                "type": "image",
+                "key": "btn_buy"
+            },
+            {
+                "url": "assets/images/buttons/btn_close.png",
+                "type": "image",
+                "key": "btn_close"
+            },
+            {
+                "url": "assets/images/buttons/btn_play.png",
+                "type": "image",
+                "key": "btn_play"
+            },
+            {
+                "url": "assets/images/bullet.png",
+                "type": "image",
+                "key": "bullet"
+            },
+            {
+                "url": "assets/images/check.png",
+                "type": "image",
+                "key": "check"
+            },
+            {
+                "url": "assets/images/coin.png",
+                "type": "image",
+                "key": "coin"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "src/scenes/Home.js",
+                "type": "sceneFile",
+                "key": "Home"
+            },
+            {
+                "url": "assets/images/particles/particle_0.png",
+                "type": "image",
+                "key": "particle_0"
+            },
+            {
+                "url": "assets/images/particles/particle_1.png",
+                "type": "image",
+                "key": "particle_1"
+            },
+            {
+                "url": "assets/images/particles/particle_2.png",
+                "type": "image",
+                "key": "particle_2"
+            },
+            {
+                "url": "assets/images/particles/particle_3.png",
+                "type": "image",
+                "key": "particle_3"
+            },
+            {
+                "url": "assets/images/player.png",
+                "type": "image",
+                "key": "player"
+            },
+            {
+                "url": "assets/images/ring.png",
+                "type": "image",
+                "key": "ring"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

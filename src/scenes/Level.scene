@@ -1,0 +1,111 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "243a8dbc-3513-421c-8a32-b50deb4088a2",
+            "label": "rectangle_1",
+            "components": [],
+            "x": 540,
+            "y": 960,
+            "visible": false,
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 1080,
+            "height": 1920
+        },
+        {
+            "type": "Container",
+            "id": "4609c420-5cd2-4a21-9a7b-0be02b191141",
+            "label": "container_header",
+            "scope": "CLASS",
+            "components": [],
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "ff0d7d43-7c30-45a0-a61b-bc1ba4a200b7",
+                    "label": "coinImage",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "coin"
+                    },
+                    "x": 64,
+                    "y": 64,
+                    "scaleX": 0.6,
+                    "scaleY": 0.6
+                },
+                {
+                    "type": "Text",
+                    "id": "4626a822-6e8c-4d00-8f63-96a2cb25904c",
+                    "label": "txt_coins",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 107,
+                    "y": 64,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontSize": "66px"
+                },
+                {
+                    "type": "Text",
+                    "id": "ab7c25c2-fbaa-4741-9a00-db2fb4ade255",
+                    "label": "txt_score",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 1048,
+                    "y": 64,
+                    "originX": 1,
+                    "originY": 0.5,
+                    "text": "0",
+                    "fontSize": "66px"
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "990997e0-28eb-4565-84d6-f819dc755553",
+            "label": "container_blocks",
+            "scope": "CLASS",
+            "components": [],
+            "list": []
+        },
+        {
+            "type": "Container",
+            "id": "bf542f8b-d0e4-4812-8132-b2bde5b8c246",
+            "label": "container_body",
+            "scope": "CLASS",
+            "components": [],
+            "list": []
+        },
+        {
+            "type": "Text",
+            "id": "2e69bbd6-ba07-4a94-a2c1-39f98425e177",
+            "label": "txt_boss",
+            "scope": "CLASS",
+            "components": [],
+            "x": 540,
+            "y": 960,
+            "originX": 0.5,
+            "originY": 0.5,
+            "visible": false,
+            "text": "BOSS APPROCHING",
+            "fontSize": "66px"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
